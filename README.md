@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kevin Biju 
-- A 💻 engineering student 
-- Currently mastering DSA 
-- Anticipating to complete Btech by 2025😄 
+- A 💻 engineering student  
 
 
 <!---
